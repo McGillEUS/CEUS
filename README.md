@@ -1,2 +1,2 @@
-# chess
-Website for the CHemical Engineering Student Society
+# CEUS
+Website for the Civil Engineering Undergraduate society
