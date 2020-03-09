@@ -89,6 +89,7 @@
 <div class="row welcome text-center">
 <div class="col-12">
 <h1 class="display-4" > Meet Prof Andrew Boyd </h1>
+<p> Prof Andrew Boyd is one of the Structural professor in the civil department</p>
 </div>
 <hr>
 </div>
@@ -101,7 +102,9 @@
 <div class="card">
 <div class="card-body">
 <h4 class ="card-title"> What classes do you teach? </h4>
-<p> CIVE 202, CIVE 527, CIVE 623</p>
+<p> CIVE 202, CIVE 527, CIVE 623
+<br>
+<br></p>
 </div>	
 </div>
 </div>
@@ -112,7 +115,20 @@
 <h4 class ="card-title"> Your favourite class to teach and why? </h4>
 <p> CIVE 202 - It's fun to introduce students to the technical details of materials they have literally 
 seen every day of their lives, usually without really considering them. I always get some very interesting comments 
-as students realize just how complex these everyday materials really are.</p>
+as students realize just how complex these everyday materials really are.
+
+</p>
+</div>	
+</div>
+</div>
+
+
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<h4 class ="card-title"> What tech comp do you think all civil students should take and why? </h4>
+<p> CIVE 527 - because I teach it. No ... because they get to go out in the field and see just how
+badly deteriorated many of our structures actualy are. It's really an eye-opener for many of them.</p>
 </div>	
 </div>
 </div>
@@ -146,6 +162,7 @@ about a material that is completely opposite to what they previosuly believed - 
 </div>	
 </div>
 </div>
+
 
 </div>
 </div>
