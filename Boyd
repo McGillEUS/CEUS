@@ -41,14 +41,115 @@
 
 </nav>
 
-<div class="container fluid">
-    <div class="row text-center welcome">
-        <div class="col-md-12">
-            <h1> Andrew Boyd</h1>
-            <p>The CEUS organizes a wide range of activities for Civil Students!
-                We try our best to make all the events and activities inclusive and accessible. </p>
+        <!--- Three Column Section -->
+        <div class="container-fluid padding">
+            <div class="row text-center padding">
+                <div class= "col-xs-12 col-sm-6 col-md-4">
+                    <p style= "font-size:40px" class = "party-popper">🎉</p>
+                    <h3> <b> Social Events </b> </h3>
+                    <p> We host many events throughout the year to get everyone out of their textbooks. Events range from apartment crawls, camping, and banquets!</p>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <i class="fas fa-graduation-cap" style="font-size:40px"></i> 
+                    <h3> <b> Academics </b></h3>
+                    <p> CEUS is the liaison between the department and students. We organizes academic events such as Speaker Series with Professors and provides academic support. We also gather course feedback, decide course funding and help students navigate the curriculum</p>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <i class="fas fa-briefcase" style="font-size:40px"></i> 
+                    <h3> <b> Career Development </b></h3>
+                    <p> Through the academic year, CEUS and CSCE host industry tours and networking Events. Students witness and learn about the various career paths their degree can lead them to.</p>
+                </div>
+            </div>
+            <hr class="my-4">
         </div>
-    </div>
+
+
+        <!-- Google Calendar-->
+        <div class= "container-fluid padding" id="calendar">
+            <div class = "col-md-12 col-lg-12">
+                <center>
+                    <h1> <b> Calendar </b> </h1>
+                    <iframe   src="https://calendar.google.com/calendar/embed?src=30t7tbt9vmm73fiqkm25t01i24%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+                </center>
+            </div>
+        </div>
+
+
+
+        <!--- Two Column Section -->
+        <!--
+<div class= "container-fluid padding">
+<div class="row padding">
+<div class = "col-md-12 col-lg-6">
+<h2> Chem Eng Petbook</h2>
+<p> Pssst...feeling stressed? Need to procrastinate? I got the goods. </p>
+<br>
+<a href="#" class = "btn btn-primary " style= "margin-bottom: 10px;"> Woof</a>
+</div>
+<div class = "col-lg-6">
+<img src = "img/big cloud.jpg" class="img-fluid">
+</div>
+</div>
+</div>
+<hr class="my-4"> -->
+      
+
+
+        <!--- Meet the team -->
+<div class="container-fluid padding">
+<div class="row welcome text-center">
+<div class="col-12">
+<h1 class="display-4" > Meet Prof Andrew Boyd </h1>
+</div>
+<hr>
+</div>
+</div>
+
+<!- Cards 
+<div class= "container-fluid padding">
+<div class= "row padding">
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<h4 class ="card-title"> What classes do you teach? </h4>
+<p> CIVE 202, CIVE 527, CIVE 623</p>
+</div>	
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<h4 class ="card-title"> Your favourite class to teach and why? </h4>
+<p> CIVE 202 - It's fun to introduce students to the technical details of materials they have literally 
+seen every day of their lives, usually without really considering them. I always get some very interesting comments 
+as students realize just how complex these everyday materials really are.</p>
+</div>	
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<h4 class ="card-title"> How can students best succeed in your classes? </h4>
+<p> Attend class and stay awake.</p>
+</div>	
+</div>
+</div>
+
+
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<h4 class ="card-title"> What were your favourite and least favourite classes? </h4>
+<p> Favourite - Construction Materials. Least - Structural Analysis.</p>
+</div>	
+</div>
+</div>
+
+
+
+</div>
 </div>
 
 
