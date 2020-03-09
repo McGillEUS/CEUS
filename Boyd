@@ -64,17 +64,6 @@
         </div>
 
 
-        <!-- Google Calendar-->
-        <div class= "container-fluid padding" id="calendar">
-            <div class = "col-md-12 col-lg-12">
-                <center>
-                    <h1> <b> Calendar </b> </h1>
-                    <iframe   src="https://calendar.google.com/calendar/embed?src=30t7tbt9vmm73fiqkm25t01i24%40group.calendar.google.com&ctz=America%2FToronto" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-                </center>
-            </div>
-        </div>
-
-
 
         <!--- Two Column Section -->
         <!--
@@ -147,7 +136,16 @@ as students realize just how complex these everyday materials really are.</p>
 </div>
 </div>
 
-
+<div class="col-md-4">
+<div class="card">
+<div class="card-body">
+<h4 class ="card-title"> What is your favourite thing about your job? </h4>
+<p> The responses/comments I get from students who really enjoy learning, especially when they have one of those 'WHOA' moments 
+while learning something
+about a material that is completely opposite to what they previosuly believed - which is very common with concrete in particular.</p>
+</div>	
+</div>
+</div>
 
 </div>
 </div>
